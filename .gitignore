@@ -1,0 +1,17 @@
+.env
+env/
+*.env
+.ai_env/
+.vscode/
+*.db
+*ipynb_checkpoints/
+*__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.pyzwzw
