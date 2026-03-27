@@ -16,3 +16,4 @@ env/
 *.pyzwz
 *.pyzwzw
 chroma_db/
+*.pdf
