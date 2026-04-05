@@ -17,3 +17,4 @@ env/
 *.pyzwzw
 chroma_db/
 *.pdf
+.claude/
